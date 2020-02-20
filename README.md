@@ -1,10 +1,10 @@
 <img src="javascript.png" align="right" />
 
-# Glorious Solutions Container
+# Glorious Container of Solutions
 
-> HackerRank & Codewars
+> (っ◔◡◔)っ HackerRank & Codewars
 
-(っ◔◡◔)っ Keeping track of all the problems I've completed. 
+Keeping track of all the problems I've completed. 
 
 ## HackerRank
 
