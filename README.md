@@ -1,3 +1,7 @@
-# Problem Solutions
+<img src="icon.png" align="right" />
 
-I'm using this repository to store my solutions to the algorithm problems I've completed on HackerRank & CodeWars.
+# My Solutions
+
+> HackerRank & CodeWars
+
+I'm using this repository to keep track of all the problems I've completed.
