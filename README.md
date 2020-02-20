@@ -1,10 +1,10 @@
 <img src="javascript.png" align="right" />
 
-# My Solutions
+# Glorious Solutions Container
 
 > HackerRank & Codewars
 
-I'm using this repository to keep track of all the problems I've completed.
+(っ◔◡◔)っ Keeping track of all the problems I've completed. 
 
 ## HackerRank
 
