@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="javascript.png" align="right" />
 
 # My Solutions
 
