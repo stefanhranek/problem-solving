@@ -47,3 +47,13 @@ function miniMaxSum(arr) {
 // POST-SOLUTION NOTE: my code passed all but one test case
     // if arr is [5,5,5,5,5] we get undefined
     // this is due to my filter method
+
+// ( ͡ʘ ͜ʖ ͡ʘ) Found a way better solution:
+// this one passes the [5,5,5,5,5] test case
+function miniMaxSum(arr) {
+    const maxArr = [...arr].sort((a, b) => a - b);
+    const minArr = [...arr].sort((a, b) => b - a);
+    const max = maxArr.slice(arr.length - 4).reduce((acc, no) => acc += no, 0);
+    const min = minArr.slice(arr.length - 4).reduce((acc, no) => acc += no, 0);
+    console.log(min + " " + max);
+    }
