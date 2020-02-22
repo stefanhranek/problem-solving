@@ -33,6 +33,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem" target="_blank">Birthday Cake Candles</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/time-conversion/problem" target="_blank">Time Conversion</a>
+    </li>
 </ul>
 
 ## Codewars
