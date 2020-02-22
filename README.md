@@ -2,9 +2,9 @@
 
 # Glorious Container of Solutions
 
-> (っ◔◡◔)っ HackerRank & Codewars
+> (っ ◔◡◔)っ HackerRank & Codewars
 
-Keeping track of my daily practice. 
+Keeping track of my daily practice.
 
 ## HackerRank
 
@@ -27,8 +27,11 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/staircase/problem" target="_blank">Staircase</a>
     </li>
-        <li>
+    <li>
         <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem" target="_blank">Mini-Max-Sum</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem" target="_blank">Birthday Cake Candles</a>
     </li>
 </ul>
 
