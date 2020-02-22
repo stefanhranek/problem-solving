@@ -4,7 +4,7 @@
 
 > (っ◔◡◔)っ HackerRank & Codewars
 
-Keeping track of all the problems I've completed. 
+Keeping track of my daily practice. 
 
 ## HackerRank
 
