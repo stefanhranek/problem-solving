@@ -36,6 +36,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/time-conversion/problem" target="_blank">Time Conversion</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/grading/problem" target="_blank">Grading Students</a>
+    </li>
 </ul>
 
 ## Codewars
