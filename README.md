@@ -39,6 +39,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/grading/problem" target="_blank">Grading Students</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem" target="_blank">Apple and Orange</a>
+    </li>
 </ul>
 
 ## Codewars
