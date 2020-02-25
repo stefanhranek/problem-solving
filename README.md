@@ -48,6 +48,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/sock-merchant/problem" target="_blank">Sock Merchant</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/counting-valleys/problem" target="_blank">Counting Valleys</a>
+    </li>
 </ul>
 
 ## Codewars
