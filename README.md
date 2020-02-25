@@ -45,6 +45,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/apple-and-orange/problem" target="_blank">Kangaroo</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/sock-merchant/problem" target="_blank">Sock Merchant</a>
+    </li>
 </ul>
 
 ## Codewars
