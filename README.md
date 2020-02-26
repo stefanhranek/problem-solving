@@ -54,6 +54,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem" target="_blank">Jumping on the Clouds</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/repeated-string/problem" target="_blank">Repeated String</a>
+    </li>
 </ul>
 
 ## Codewars
