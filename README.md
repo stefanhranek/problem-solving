@@ -57,6 +57,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/repeated-string/problem" target="_blank">Repeated String</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/2d-array/problem" target="_blank">2D Array - DS</a>
+    </li>
 </ul>
 
 ## Codewars
