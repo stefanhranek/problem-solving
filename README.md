@@ -60,6 +60,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/2d-array/problem" target="_blank">2D Array - DS</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem" target="_blank">Arrays: Left Rotation</a>
+    </li>
 </ul>
 
 ## Codewars
