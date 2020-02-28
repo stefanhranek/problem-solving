@@ -66,6 +66,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/ctci-bubble-sort/problem" target="_blank">Bubble Sort</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/ctci-ranson-note/problem" target="_blank">Hash Tables: Ransom Note</a>
+    </li>
 </ul>
 
 ## Codewars
