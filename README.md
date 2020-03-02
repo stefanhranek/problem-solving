@@ -72,6 +72,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/two-strings/problem" target="_blank">Two Strings</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem" target="_blank">Mark and Toys</a>
+    </li>
 </ul>
 
 ## Codewars
