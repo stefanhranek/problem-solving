@@ -75,6 +75,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/mark-and-toys/problem" target="_blank">Mark and Toys</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem" target="_blank">Recursion: Fibonacci Numbers</a>
+    </li>
 </ul>
 
 ## Codewars
