@@ -81,6 +81,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem" target="_blank">Breaking the Records</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem" target="_blank">Divisible Sum Pairs</a>
+    </li>
 </ul>
 
 ## Codewars
