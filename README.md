@@ -84,6 +84,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/divisible-sum-pairs/problem" target="_blank">Divisible Sum Pairs</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/migratory-birds/problem" target="_blank">Migratory Birds</a>
+    </li>
 </ul>
 
 ## Codewars
