@@ -96,28 +96,76 @@ Keeping track of my daily practice.
         <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-data-types/problem" target="_blank">Day 0: Data Types</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem" target="_blank">Day 1: Arithmetic Operators</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-function/problem" target="_blank">Day 1: Functions</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-let-and-const" target="_blank">Day 1: Let and Const</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-if-else" target="_blank">Day 2: Conditional Statements: If-Else</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-switch" target="_blank">Day 2: Conditional Statements: Switch</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-loops" target="_blank">Day 2: Loops</a>
     </li>
     <li>
-        <a href="https://www.hackerrank.com/challenges/js10-hello-world/problem" target="_blank">Day 0: Hello, World!</a>
+        <a href="https://www.hackerrank.com/challenges/js10-arrays/problem" target="_blank">Day 3: Arrays</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally" target="_blank">Day 3: Try, Catch, and Finally</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-throw/problem" target="_blank">Day 3: Throw</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-objects" target="_blank">Day 4: Create a Rectangle Object</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-count-objects" target="_blank">Day 4: Count Objects</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-class" target="_blank">Day 4: Classes</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-inheritance" target="_blank">Day 5: Inheritance</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-template-literals" target="_blank">Day 5: Template Literals</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-arrows" target="_blank">Day 5: Arrow Functions</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-bitwise" target="_blank">Day 6: Bitwise Operator</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-date" target="_blank">Day 6: JavaScript Dates</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-regexp-1" target="_blank">Day 7: Regular Expressions I</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-regexp-2" target="_blank">Day 7: Regular Expressions II</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-regexp-3" target="_blank">Day 7: Regular Expressions III</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-create-a-button" target="_blank">Day 8: Create a Button</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-buttons-container" target="_blank">Day 8: Buttons Container</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/js10-binary-calculator" target="_blank">Day 9: Binary Calculator</a>
     </li>
 </ul>
 
