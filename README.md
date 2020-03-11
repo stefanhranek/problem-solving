@@ -87,6 +87,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.hackerrank.com/challenges/migratory-birds/problem" target="_blank">Migratory Birds</a>
     </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/bon-appetit/problem" target="_blank">Bon Appetit</a>
+    </li>
 </ul>
 
 ## 10 Days of JS [HackerRank]
