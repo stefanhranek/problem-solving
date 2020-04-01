@@ -286,3 +286,11 @@ Keeping track of my daily practice.
         <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
     </li>
 </ul>
+
+## 30 Day LeetCode Challenge
+
+<ul>
+    <li>
+        <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/" target="_blank">Day 1: Single Number</a>
+    </li>
+</ul>
