@@ -2,7 +2,7 @@
 
 # Glorious Container of Solutions
 
-> (っ ◔◡◔)っ HackerRank & Codewars
+> (っ ◔◡◔)っ HackerRank, Codewars, LeetCode
 
 Keeping track of my daily practice.
 
@@ -276,5 +276,13 @@ Keeping track of my daily practice.
     </li>
     <li>
         <a href="https://www.codewars.com/kata/525c65e51bf619685c000059" target="_blank">Pete, the baker</a>
+    </li>
+</ul>
+
+## LeetCode
+
+<ul>
+    <li>
+        <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
     </li>
 </ul>
