@@ -285,6 +285,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/" target="_blank">Lucky Integer</a>
+    </li>
 </ul>
 
 ## 30 Day LeetCode Challenge
