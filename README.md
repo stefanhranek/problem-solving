@@ -296,4 +296,64 @@ Keeping track of my daily practice.
     <li>
         <a href="https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/" target="_blank">Day 1: Single Number</a>
     </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3284/" target="_blank">Day 2: Happy Number</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3285/" target="_blank">Day 3: Maximum Subarray</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3286/" target="_blank">Day 4: Move Zeroes</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3287/" target="_blank">Day 5: Best Time to Buy and Sell Stock II</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/" target="_blank">Day 6: Group Anagrams</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/" target="_blank">Day 7: Counting Elements</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/" target="_blank">Day 8: Middle of the Linked List</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/" target="_blank">Day 9: Backspace String Compare</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3292/" target="_blank">Day 10: Min Stack</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/" target="_blank">Day 11: Diameter of a Binary Tree</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/" target="_blank">Day 12: Last Stone Weight</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3298/" target="_blank">Day 13: Contiguous Array</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3299/" target="_blank">Day 14: Perform String Shifts</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3300/" target="_blank">Day 15: Product of Array Except Self</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3301/" target="_blank">Day 16: Valid Parenthesis String</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/" target="_blank">Day 17: Number of Islands</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/" target="_blank">Day 18: Minimum Path Sum</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/" target="_blank">Day 19: Search in Rotated Sorted Array</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3305/" target="_blank">Day 20: Construct Binary Search Tree</a>
+    </li>
+        <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/" target="_blank">Day 21: Leftmost Column with at Least a One</a>
+    </li>
 </ul>
