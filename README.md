@@ -362,4 +362,10 @@ Keeping track of my daily practice.
     <li>
         <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3308/" target="_blank">Day 22: Bitwise AND of Numbers Range</a>
     </li>
+    <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/" target="_blank">Day 23: LRU Cache</a>
+    </li>
+    <li>
+        <a href="https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/" target="_blank">Day 24: Jump Game</a>
+    </li>
 </ul>
