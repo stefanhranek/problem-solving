@@ -277,6 +277,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://www.codewars.com/kata/525c65e51bf619685c000059" target="_blank">Pete, the baker</a>
     </li>
+    <li>
+        <a href="https://www.codewars.com/kata/52dbae61ca039685460001ae" target="_blank">Search for letters</a>
+    </li>
 </ul>
 
 ## LeetCode
