@@ -94,7 +94,10 @@ Keeping track of my daily practice.
         <a href="https://www.hackerrank.com/challenges/between-two-sets/problem" target="_blank">Between Two Sets</a>
     </li>
     <li>
-        <a href="    https://www.hackerrank.com/challenges/cats-and-a-mouse/problem" target="_blank">Between Two Sets</a>
+        <a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem" target="_blank">Between Two Sets</a>
+    </li>
+    <li>
+        <a href="https://www.hackerrank.com/challenges/minimum-swaps-2" target="_blank">Minimum Swaps 2</a>
     </li>
 </ul>
 
