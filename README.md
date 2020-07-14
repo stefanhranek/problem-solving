@@ -294,6 +294,9 @@ Keeping track of my daily practice.
     <li>
         <a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/" target="_blank">Lucky Integer</a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/running-sum-of-1d-array/" target="_blank">Running Sum of 1d Array</a>
+    </li>
 </ul>
 
 ## 30 Day LeetCode Challenge
